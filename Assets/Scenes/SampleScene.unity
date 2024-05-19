@@ -1214,6 +1214,7 @@ MonoBehaviour:
   lastDongle: {fileID: 0}
   donglePrefab: {fileID: 2105101498591836658, guid: c070dcc8762ac7a47a0969202ec0835f, type: 3}
   dongleGroup: {fileID: 483460737}
+  maxLevel: 2
 --- !u!4 &1689587220
 Transform:
   m_ObjectHideFlags: 0
